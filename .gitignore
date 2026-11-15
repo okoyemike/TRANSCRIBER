@@ -1,0 +1,8 @@
+my_environment/
+venv/
+uploads/
+__pycache__/
+*.m4a
+*.mp3
+*.wav
+test.txt
